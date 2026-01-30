@@ -4,26 +4,20 @@
 ---
 
 ## 1. Pendahuluan
-Repositori ini berisi kumpulan **mini project Python** yang dikerjakan sebagai bagian dari **tugas individu** dengan pendekatan *replikasi berbasis pemahaman*. Proyek-proyek di dalam repositori ini mengacu pada materi video dan handbook *Python Projects for Beginners*.
-
-Seluruh kode program yang di replikasi
-
-- Disusun ulang agar lebih terstruktur
-- Diberi komentar penjelasan
-
-
-Repositori ini juga berfungsi sebagai **portofolio pembelajaran** untuk menunjukkan kemampuan dasar pemrograman Python dan praktik awal rekayasa perangkat lunak.
-
+Repositori ini memuat sejumlah proyek kecil berbasis Python yang dikerjakan secara mandiri sebagai bagian dari tugas pembelajaran. Setiap proyek dibuat melalui proses replikasi yang disertai pemahaman, bukan sekadar menyalin hasil akhir.
+Sumber pengerjaan berasal dari materi video serta buku panduan Python Projects for Beginners. Kode yang dihasilkan kemudian disesuaikan kembali agar lebih mudah dibaca, dipelajari, dan dipahami oleh pemula.
+Melalui repositori ini, penulis mendokumentasikan proses belajar pemrograman Python sekaligus membangun portofolio dasar yang menunjukkan kemampuan memahami logika program dan menyusun kode secara terstruktur.
 ---
 
 ## 2. Tujuan Pengerjaan
-Tujuan utama pengerjaan repositori ini adalah:
-1. Memahami alur logika dan proses problem solving dalam proyek Python sederhana  
-2. Melatih penggunaan struktur kontrol seperti percabangan dan perulangan  
-3. Membiasakan penggunaan fungsi dan modularisasi kode  
-4. Menerapkan struktur data yang sesuai (tuple, dictionary)  
-5. Mengelola dependency menggunakan virtual environment  
-6. Menyusun dokumentasi teknis dalam Bahasa Indonesia  
+Pengerjaan repositori ini bertujuan untuk:
+1. Mengembangkan kemampuan berpikir logis dalam menyelesaikan masalah sederhana
+2. Memahami alur kerja program Python dari awal hingga akhir
+3. Membiasakan penggunaan struktur kontrol seperti percabangan dan perulangan
+4. Melatih penulisan fungsi serta pembagian kode ke dalam modul
+5. Mengenal penggunaan struktur data dasar yang sesuai dengan kebutuhan progra
+6. Menerapkan pengelolaan dependency dan lingkungan kerja secara terpisah
+7. Menyusun dokumentasi teknis yang jelas dalam Bahasa Indonesia
 
 ---
 
@@ -59,14 +53,14 @@ Permainan menebak angka di mana komputer memilih angka acak antara 1 sampai 100.
 ---
 
 ### 3.3 Rock, Paper, Scissors Game
-Permainan Batu–Gunting–Kertas antara pengguna dan komputer. Pilihan komputer ditentukan secara acak dan hasil permainan ditampilkan menggunakan emoji.
+Proyek ini mengimplementasikan permainan Batu–Gunting–Kertas antara pengguna dan komputer. Seluruh proses permainan dirancang agar mudah dipahami dengan pemisahan logika dan alur tampilan.
 
 Program ini disusun secara modular dengan fungsi-fungsi terpisah agar mudah dibaca dan dipelihara.
 
 **Tujuan Pembelajaran:**
-- Membiasakan penggunaan fungsi
-- Memisahkan logika dan tampilan
-- Validasi input pengguna
+- Penggunaan fungsi untuk membagi tugas program
+- Pengelolaan aturan permainan secara terstruktur
+- Validasi input agar program berjalan dengan benar
 
 **Konsep Utama:**
 - Fungsi
@@ -110,7 +104,7 @@ Tahap refactoring dilakukan pada program **Rock, Paper, Scissors** dengan tujuan
 ---
 
 ## 4. Struktur Repositori
-Struktur repositori disusun agar rapi dan mudah dipahami.
+Repositori ini disusun menggunakan pembagian folder yang jelas agar setiap proyek mudah dipahami dan dikelola. Dokumentasi pendukung tersedia pada folder khusus untuk membantu proses pembelajaran.
 
 
 
